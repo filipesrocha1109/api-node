@@ -1,0 +1,5 @@
+docker ps - verificar se esta startado
+
+docker mongo - starta 
+
+C:\Users\FILIPE ROCHA\node-api> nodemon server.js - starta projeto
