@@ -1,0 +1,4 @@
+nodemon server.js
+npm start
+decker ps > docker mongo
+
